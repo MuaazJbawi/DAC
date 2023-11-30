@@ -1,0 +1,8 @@
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:69:1:DACController::DACController()	16	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:81:6:void DACController::Run()	16	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:100:6:void DACController::SystemClock_Config()	104	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:143:6:void DACController::Error_Handler()	16	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:152:6:void DACController::DAC_Ch1_EscalatorConfig()	24	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:172:6:void DACController::DAC_Ch1_TriangleConfig()	16	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:200:6:void DACController::TIM6_Config()	96	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/main.c:223:16:int main()	48	static

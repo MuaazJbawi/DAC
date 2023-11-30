@@ -1,0 +1,4 @@
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/stm32f4xx_hal_msp.c:49:6:void HAL_DAC_MspInit(DAC_HandleTypeDef*)	48	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/stm32f4xx_hal_msp.c:101:6:void HAL_DAC_MspDeInit(DAC_HandleTypeDef*)	16	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/stm32f4xx_hal_msp.c:127:6:void HAL_TIM_Base_MspInit(TIM_HandleTypeDef*)	24	static
+C:/Users/jbawi/Desktop/Final Project/STM32CubeIDE/DAC_SignalsGeneration/Src/stm32f4xx_hal_msp.c:141:6:void HAL_TIM_Base_MspDeInit(TIM_HandleTypeDef*)	16	static
